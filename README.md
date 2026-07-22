@@ -8,11 +8,9 @@ This project was built as part of my Python learning journey and serves as a por
 
 ## 📸 Screenshot
 
-> Save your uploaded screenshot as **`screenshot.png`** in the project root, then GitHub will display it automatically.
+Below is a preview of the Student Management System:
 
 ![Student Management System](screenshot.png)
-
----
 
 # ✨ Features
 
