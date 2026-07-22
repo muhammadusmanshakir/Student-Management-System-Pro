@@ -1,0 +1,18 @@
+[
+    {
+        "student_id": "1122",
+        "name": "Usman Shakir",
+        "age": 22,
+        "department": "SE new campus",
+        "marks": 96,
+        "grade": "A"
+    },
+    {
+        "student_id": "1123",
+        "name": "Ali",
+        "age": 20,
+        "department": "CS",
+        "marks": 85,
+        "grade": "B"
+    }
+]
